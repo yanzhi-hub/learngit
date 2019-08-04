@@ -1,4 +1,4 @@
-Git is a free software.
+Git is a free software, great.
 
 Add distributed
 
